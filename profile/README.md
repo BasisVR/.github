@@ -8,4 +8,4 @@ Our goal is to help equip VR Creators, so we can accelerate the growth of VR.
 
 Basis lives entirely off of donations, and [@dooly123](https://github.com/dooly123) is working on it full-time. Please consider donating:
 * https://github.com/sponsors/dooly123
-* https://ko-fi.com/dooly
+* [opencollective.com/basis](https://opencollective.com/basis)
